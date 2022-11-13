@@ -1,11 +1,11 @@
-baseurl: https://lmm.pages.dev
+baseurl: https://maxwell.pages.dev
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: maxwell's blog
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: maxwell-blog
 
 # GA Tracking ID
 googleAnalytics:
@@ -30,7 +30,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Maxwell的个人博客
         avatar:
             enabled: false
             local: true
