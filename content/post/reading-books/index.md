@@ -1,3 +1,13 @@
+---
+title: 推荐书单
+description: 最近读的几本书，推荐给大家
+date: 2022-11-15
+slug: reading-books
+image: 
+categories:
+    - books
+    - 书
+---
 # 推荐书单
 
 ## 《这才是心理学》
