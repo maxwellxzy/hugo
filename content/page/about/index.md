@@ -1,37 +1,32 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: 苏州乡下的美好生活点滴一二
+date: '2023-06-06'
 aliases:
   - about-us
-  - about-hugo
+  - about-me
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2023-06-07'
 menu:
     main: 
         weight: -90
         params:
             icon: user
 ---
+# 关于我
+> 生活在苏州，是一件美好的事情。总是有看不完的风景，吃不完的美食；有保存完好的历史古迹，也有现代化的城市楼群。但是最让人难以割舍的，是人，亲人，朋友，以及一个个认识的不认识的，在苏州忙碌的人。
+> 我所要记录的，就是这些。
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## 关于景色
 
-Hugo makes use of a variety of open source projects including:
+## 关于美食
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## 关于历史人文
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-中文
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-这是一个隐藏的bug
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## 关于现代化
+未来是不可预知的，又是充满激情和向往的。不管是chatGPT的出现，还是电动车、生物科技的发展，都让人感觉到，未来有着美好的生活和力量。
+## 关于他们
+观察认识到的一些有趣的人，有故事的人，身边的人。
+## 关于我自己
+我会分享一些我自己的生活、工作、读书、游玩等心得。
