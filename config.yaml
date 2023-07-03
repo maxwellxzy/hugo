@@ -1,6 +1,7 @@
 baseurl: https://maxwell.pages.dev
 languageCode: en-us
-theme: hugo-theme-stack
+# theme: hugo-theme-stack
+theme: piko
 paginate: 5
 title: maxwell's blog
 
